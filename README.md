@@ -4,8 +4,8 @@ I'm Cassiano José Sobierai, a passionate individual with a journey that began i
 
 ## 👨‍💻 Current Role
 
-I am currently an Data Intelligence Analyst at [JOST Brasil Sistemas Automotivos](https://www.jost.com.br/){:target="_blank"}, where I focus on digital transformation through data.
-
+I am currently an Data Intelligence Analyst at [JOST Brasil Sistemas Automotivos](https://www.jost.com.br) , where I focus on digital transformation through data.
+<a href="https://www.google.com" target="_blank">Link para o Google</a>
 ## 🚀 My Projects
 
 ### Copinha E-Sports Project
