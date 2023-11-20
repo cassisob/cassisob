@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My academic journey began when I was 11 years old, and over time, I was fortunate to receive two scholarships at @IFRS. Since 2019, I have been immersed in the world of technology, particularly in programming. At the age of 15, I developed my first game in Python.
+
+I am the creator of the Copinha E-Sports project, a community for electronic gaming tournaments. This project even has the support of the city hall of the second-largest city in Rio Grande do Sul (Caxias do Sul). I have always had the goal of inspiring and motivating people.
+
+Just over a year ago, I fell in love with the world of data, and I am currently working on improving my skills, focusing on Python, databases, and artificial intelligence, in addition to constantly striving to enhance my soft skills.
+
 <!--
 **cassisob/cassisob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
