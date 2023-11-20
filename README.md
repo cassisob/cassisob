@@ -1,4 +1,4 @@
-### Hi there 👋
+### Cassiano José Sobierai 👋
 
 My academic journey began when I was 11 years old, and over time, I was fortunate to receive two scholarships at @IFRS. Since 2019, I have been immersed in the world of technology, particularly in programming. At the age of 15, I developed my first game in Python.
 
