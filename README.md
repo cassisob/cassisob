@@ -1,22 +1,34 @@
-### Cassiano José Sobierai 👋
+# Hi there! 👋
 
-My academic journey began when I was 11 years old, and over time, I was fortunate to receive two scholarships at @IFRS. Since 2019, I have been immersed in the world of technology, particularly in programming. At the age of 15, I developed my first game in Python.
+I'm Cassiano José Sobierai, a passionate individual with a journey that began in academia at the age of 11. Over the years, I've been fortunate to receive two scholarships at [@IFRS](https://github.com/IFRS). Since 2019, I've been deeply immersed in the world of technology, particularly in programming. At the age of 15, I proudly developed my first game in Python.
 
-I am the creator of the Copinha E-Sports project, a community for electronic gaming tournaments. This project even has the support of the city hall of the second-largest city in Rio Grande do Sul (Caxias do Sul). I have always had the goal of inspiring and motivating people.
+## 🚀 My Projects
 
-Just over a year ago, I fell in love with the world of data, and I am currently working on improving my skills, focusing on Python, databases, and artificial intelligence, in addition to constantly striving to enhance my soft skills.
+### Copinha E-Sports Project
+I am the creator of the Copinha E-Sports project, a thriving community for electronic gaming tournaments. This project has gained recognition and support from the city hall of Caxias do Sul, the second-largest city in Rio Grande do Sul. My goal has always been to inspire and motivate people through the world of gaming.
 
-<!--
-**cassisob/cassisob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Copinha E-Sports GitHub Repository](https://github.com/your-username/copinha-esports)
 
-Here are some ideas to get you started:
+### Data Exploration and AI Projects
+Over a year ago, I discovered my passion for the world of data. Currently, I'm actively working on enhancing my skills, with a focus on Python, databases, and artificial intelligence. Here are some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **Data Analysis with Python**
+   - [Link to the GitHub Repository](https://github.com/your-username/data-analysis-python)
+
+2. **Machine Learning Exploration**
+   - [Link to the GitHub Repository](https://github.com/your-username/machine-learning-exploration)
+
+3. **Personal AI Assistant**
+   - [Link to the GitHub Repository](https://github.com/your-username/personal-ai-assistant)
+
+## 🌱 Skills and Learning
+
+I'm dedicated to continuous learning and improvement. Currently, I'm honing my skills in:
+
+- Python
+- Databases
+- Artificial Intelligence
+
+I am also committed to enhancing my soft skills to complement my technical expertise.
+
+Feel free to explore my repositories and connect with me! Let's build and learn together! 🚀
