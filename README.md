@@ -2,6 +2,10 @@
 
 I'm Cassiano José Sobierai, a passionate individual with a journey that began in academia at the age of 11. Over the years, I've been fortunate to receive two scholarships at [@IFRS](https://github.com/IFRS). Since 2019, I've been deeply immersed in the world of technology, particularly in programming. At the age of 15, I proudly developed my first game in Python.
 
+## 👨‍💻 Current Role
+
+I am currently an Data Intelligence Analyst at (JOST Brasil Sistemas Automotivos)[https://www.jost.com.br/], where I focus on digital transformation through data.
+
 ## 🚀 My Projects
 
 ### Copinha E-Sports Project
@@ -18,7 +22,7 @@ Over a year ago, I discovered my passion for the world of data. Currently, I'm a
 2. ***
    - [Link to the GitHub Repository]()
 
-3. **
+3. ***
    - [Link to the GitHub Repository]()
 
 ## 🌱 Skills and Learning
