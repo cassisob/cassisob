@@ -7,19 +7,19 @@ I'm Cassiano José Sobierai, a passionate individual with a journey that began i
 ### Copinha E-Sports Project
 I am the creator of the Copinha E-Sports project, a thriving community for electronic gaming tournaments. This project has gained recognition and support from the city hall of Caxias do Sul, the second-largest city in Rio Grande do Sul. My goal has always been to inspire and motivate people through the world of gaming.
 
-- [Copinha E-Sports GitHub Repository](https://github.com/your-username/copinha-esports)
+- ***
 
 ### Data Exploration and AI Projects
 Over a year ago, I discovered my passion for the world of data. Currently, I'm actively working on enhancing my skills, with a focus on Python, databases, and artificial intelligence. Here are some of my projects:
 
-1. **Data Analysis with Python**
-   - [Link to the GitHub Repository](https://github.com/your-username/data-analysis-python)
+1. ***
+   - [Link to the GitHub Repository]()
 
-2. **Machine Learning Exploration**
-   - [Link to the GitHub Repository](https://github.com/your-username/machine-learning-exploration)
+2. ***
+   - [Link to the GitHub Repository]()
 
-3. **Personal AI Assistant**
-   - [Link to the GitHub Repository](https://github.com/your-username/personal-ai-assistant)
+3. **
+   - [Link to the GitHub Repository]()
 
 ## 🌱 Skills and Learning
 
