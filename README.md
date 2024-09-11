@@ -68,4 +68,3 @@ Just over two years ago, I fell in love with the world of data, and I am current
 - Email: cassianosobierai@outlook.com
 - LinkedIn: [Cassiano Sobierai](https://www.linkedin.com/in/cassiano-sobierai/)
   
-Always open to collaborating on exciting data projects or discussing innovative solutions in data analytics and smart manufacturing!
