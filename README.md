@@ -5,7 +5,7 @@ Just over two years ago, I fell in love with the world of data, and I am current
 
 ## 🌟 About Me
 
-- 🔍 20 years old, living in Farroupilha, Brazil;
+- 🔍 21 years old, living in Farroupilha, Brazil;
 - 🚀 **Data Analyst** currently working at JOST Brazil;
 - 🎯 Focused on identifying and resolving challenges through data manipulation and visualization;
 - 💡 Skilled in Python, SQL, JavaScript, and Flask for data analytics and web development;
@@ -20,8 +20,7 @@ Just over two years ago, I fell in love with the world of data, and I am current
 - **Project Management**: Agile methodologies;
 - **Certifications**:
   - Google Data Analytics (Coursera/Google);
-  - Google Advanced Data Analytics (Coursera/Google) - In progress.
-
+  - Linguaskill Test - Level B2.
 
 ## 🎓 Education
 
