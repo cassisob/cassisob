@@ -6,7 +6,7 @@ My main tools are Python and SQL. I also have experience with data visualization
 
 Feel free to check out some of my work or connect with me on LinkedIn: linkedin.com/in/cassiano-sobierai
 
-You can also check out @copinhaesports on Instagram — a community I created to support local e-sports. Over 90 teams have participated and we’ve hosted 5 in-person events (4 of which were held in gymnasiums!).
+You can also check out @esportscopinha on Instagram — a community I created to support local e-sports. Over 90 teams have participated and we’ve hosted 5 in-person events (4 of which were held in gymnasiums!).
 
-See you online ;)
+See you online ;)<br>
 Cassiano.
